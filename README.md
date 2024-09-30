@@ -6,4 +6,4 @@ function test(){
 ```
 pitonban:
 ```js
-function (function(function()));
+function (function(function()));ljtrhsrtéojhjrháropjphápf
